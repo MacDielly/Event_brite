@@ -177,5 +177,9 @@ ouvrir une nouvelle console, lancer "rails s" (dans le dossier du projet) et all
 rails c (sur la fenêtre sans server)
 user = User.create(first_name: "Alec", email: "alec@mail.fr")
 
+
+Mouais... Après on a pas réussi.
+
+
 curl -L https://fly.io/install.sh | sh
 
